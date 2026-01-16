@@ -1,0 +1,187 @@
+{
+  "basics": {
+    "name": "Holly Maguire",
+    "label": "Front-end",
+    "label2": "Engineer",
+    "picture": "",
+    "email": "hollygracemaguire@gmail.com",
+    "phone": "1 832-620-0172",
+    "website": "https://main.d3neg4zum4yqf9.amplifyapp.com/",
+    "summary": "I am a software engineer who specilized in the front-end. ",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Holly Maguire",
+        "url": "https://www.linkedin.com/in/holly-maguire-38b27b2b0"
+      },
+      {
+        "network": "Github",
+        "username": "HollyMaguire",
+        "url": "https://github.com/HollyMaguire"
+      },
+      {
+        "network": "CodePen",
+        "username": "HollyMaguire",
+        "url": "https://codepen.io/hollyMaguire"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Triumph Financial",
+      "position": "Senior Software Engineer",
+      "startDate": "2025",
+      "summary": "Developed and maintained web applications using a hybrid React and Elm frontend, delivering responsive and maintainable user interfaces. Built and optimised backend services with Ruby on Rails, using Sorbet to improve type safety and reliability. Contributed to machine learning initiatives through Python development. Implemented automated test suites with RSpec and supported cross-team collaboration on system design, architecture, and feature delivery."
+    },
+    {
+      "company": "USPTO Frontend Developer",
+      "position": "Frontend Developer",
+      "startDate": "2024",
+      "summary": "Led frontend development for government applications using Angular, TypeScript, and SCSS, delivering accessible and responsive interfaces. Improved code quality and maintainability by reducing redundancy and producing clear technical documentation. Worked closely with UX and design teams to enhance usability and consistently deliver features ahead of schedule. Ensured compliance with federal accessibility standards using WAVE tooling and reduced technical debt to improve overall system performance."
+    },
+    {
+      "company": "Fond",
+      "position": "Frontend Software Engineer",
+      "startDate": "2022",
+      "summary": "Developed interactive data visualisations that increased user engagement. Collaborated with backend teams to integrate RESTful APIs and improve data handling performance. Maintained frontend quality through regular code reviews and React component refactoring, reducing technical debt. Provided backend support using Ruby on Rails to improve API performance."
+    },
+    {
+      "company": "GreakTech / Credence / Department of Defense and IMG-Crown / EIA/DOE ",
+      "position": "Frontend Software Engineer and Full-stack Developer",
+      "startDate": "2021",
+      "summary": "(Note These positions were worked concurrently). Modernised the FedMall user interface for the Department of Defense, improving accessibility compliance and reducing bounce rates. Supported QA efforts to improve software quality and user experience. Worked within Agile teams to incorporate feedback and improve consistency of feature delivery. For DOE:Designed and maintained web applications for Department of Energy projects, implementing RESTful APIs and improving application performance. Developed internal tooling to support workflow tracking and operational efficiency. Managed virtual environments and testing processes to support reliable delivery."
+    },
+    {
+      "company": "Freelance Contractor",
+      "position": "Full-Stack Developer",
+      "startDate": "2020",
+      "summary": "Developed modular and reusable UI components across multiple projects to improve code reuse and efficiency. Supported deployments through CI/CD pipelines and tracked delivery using Jira, improving predictability and release quality."
+    },
+    {
+      "company": "Chemist/Researcher",
+      "startDate": "2016",
+      "summary": "Before I switched to software engineering/development I was a research Chemist. My areas of research were green chemistry, more specifically creating eco-friendly biodegradable polymers out of plant material, and drug discovery research. For the drug discovery research I lead parasite drug discovery projects."
+
+    }
+  ],
+  
+  "education": [
+    {
+      "institution":"Prairie View A&M University",
+      "area": " Of Science",
+      "studyType": "Bachelors",
+      "courses": [
+        "Biochemistry"
+      ]
+    },
+    {
+      "institution": "Briterace",
+      "area": "",
+      "studyType": "Training",
+      "courses": [
+        "Software development bootcamp"
+      ]
+    }
+  ],
+  "skills": [
+      { "name": "JavaScript (ES6+)" },
+      { "name": "TypeScript" },
+      { "name": "Elm" },
+      { "name": "HTML5" },
+      { "name": "CSS3" },
+      { "name": "SCSS" },
+      { "name": "React.js" },
+      { "name": "Vue.js" },
+      { "name": "Angular" },
+      { "name": "React Native" },
+      { "name": "Redux" },
+      { "name": "Vuex" },
+      { "name": "Apollo Client" },
+      { "name": "Bootstrap" },
+      { "name": "Material-UI" },
+      { "name": "Tailwind CSS" },
+      { "name": "Vuetify" },
+      { "name": "Figma" },
+      { "name": "Storybook" },
+      { "name": "Git" },
+      { "name": "GitHub" },
+      { "name": "GitLab" },
+      { "name": "Python" },
+      { "name": "Ruby" },
+      { "name": "Java" },
+      { "name": "Fortran" },
+      { "name": "PHP" },
+      { "name": "C#" },
+      { "name": "Rails" },
+      { "name": "Django" },
+      { "name": "Flask" },
+      { "name": "Node.js" },
+      { "name": "Laravel" },
+      { "name": "RESTful APIs" },
+      { "name": "GraphQL" },
+      { "name": "MySQL" },
+      { "name": "PostgreSQL" },
+      { "name": "MongoDB" },
+      { "name": "SQLite" },
+      { "name": "Oracle" },
+      { "name": "Jenkins" },
+      { "name": "Heroku" },
+      { "name": "CI/CD Pipelines" },
+      { "name": "Docker" },
+      { "name": "WAVE" },
+      { "name": "JAWS" },
+      { "name": "Agile & Scrum" },
+      { "name": "Agile Methodology" },
+      { "name": "Object-Oriented Programming (OOP)" },
+      { "name": "MVC" },
+      { "name": "MVT" },
+      { "name": "Jira" },
+      { "name": "Trello" },
+      { "name": "Rally" },
+      { "name": "ClickUp" },
+      { "name": "Unity" },
+      { "name": "AWS EC2" },
+      { "name": "AWS RDS" },
+      { "name": "AWS S3" },
+      { "name": "AWS SNS" },
+      { "name": "AWS SES" },
+      { "name": "AWS Lambda" },
+      { "name": "Elastic Beanstalk" },
+      { "name": "AWS Amplify" },
+      { "name": "Amplify Hosting" },
+      { "name": "Amplify CLI" },
+      { "name": "Environment Management" },
+      { "name": "Machine Learning"},
+      { "name": "yarn"},
+      { "name": "npm"},
+      { "name": "choco"},
+      { "name": "Vite"},
+      { "name": "brew"}
+  ],
+  "interests": [
+    {
+      "name": "Front-end",
+      "keywords": [
+        "I have professional experence building user interfaces using JavaScript (ES6+), TypeScript, Elm, HTML5, CSS3, and SCSS, using frameworks/libraies: React, Vue, Angular, and React Native. I have worked with state management tools like Redux, Vuex, and Apollo Client, and create responsive UIs using Bootstrap, Material-UI, Tailwind CSS, and Vuetify. I focus on component-driven development, design systems, cross-browser compatibility, and performance optimization. I also am experences with frontend testing, both manual and with Jest. I have done some design work and have also used Figma and Storybook throughout my career. This site was made with Vue."
+      ]
+    },
+    {
+      "name": "Backend",
+      "keywords": [
+        "My experence with backend systems using Python, Ruby, Java, Fortran, and PHP; with experience in frameworks like Rails, Django, Flask, Node.js, and Laravel. I develop RESTful and GraphQL APIs, and work with databases including MySQL, PostgreSQL, MongoDB, SQLite, and Oracle. My work focuses on designing scalable, maintainable, integrating data efficiently, and ensuring smooth communication between services."
+      ]
+    },
+    {
+      "name": "DevOps & Cloud",
+      "keywords":[
+        "I work with AWS services including EC2, RDS, S3, SNS, SES, Lambda, and Elastic Beanstalk to deploy and manage scalable applications. This site is actually using AWS Amplify I also have experience with DevOps tools such as Jenkins, Heroku, Docker, and CI/CD pipelines, focusing on automating deployments."
+      ]
+    },
+    {
+      "name": "Development Practices & Tools",
+      "keywords": [
+        "I have experience ensuring applications meet accessibility standards using tools like WAVE and JAWS, and I follow best practices in software development, including Agile & Scrum, object-oriented programming (OOP), and MVC/MVT architecture patterns. I’m comfortable managing projects and collaborating with teams using tools like Jira, Trello, Rally, and ClickUp. On the creative side, I’ve worked on game development with Unity and C#. I have also done some machine learning work with python."
+      ]
+    }
+  ]
+}
