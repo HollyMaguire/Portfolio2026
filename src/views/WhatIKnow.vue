@@ -9,12 +9,12 @@
         </Heading>
 
         <v-col cols="auto">
-          <v-btn color="primary" :href="CVUK" target="_blank">
+          <v-btn color="primary" href="/assets/CvUk.pdf" target="_blank">
             <p class="text-black">View cv UK</p>
           </v-btn>
 
           <footer class="text-center mt-4">
-            <v-btn color="primary" :href="CVUS" target="_blank">
+            <v-btn color="primary" href="/assets/CvUS.pdf" target="_blank">
               <p class="text-black">View cv US</p>
             </v-btn>
           </footer>
@@ -108,8 +108,6 @@
 <script setup lang="ts">
 import { ref, computed } from 'vue'
 import { useAppStore } from '@/stores/app'
-import CVUK  from '@/assets/CvUk.pdf'
-import CVUS  from '@/assets/CvUS.pdf'
 
 const { schema } = useAppStore()
 
