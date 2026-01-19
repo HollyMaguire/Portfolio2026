@@ -1,3 +1,5 @@
+import CVUK from @
+
 <template>
   <Section id="what-i-know">
     <Abstract2 />
@@ -9,12 +11,12 @@
         </Heading>
 
         <v-col cols="auto">
-          <v-btn color="primary" href="../../public/assets/CvUk.pdf">
+          <v-btn color="primary" href="/assets/CvUk.pdf">
             <p class="text-black">View cv UK</p>
           </v-btn>
 
           <footer class="text-center mt-4">
-            <v-btn color="primary" href="../../public/assets/CvUS.pdf">
+            <v-btn color="primary" href="/assets/CvUS.pdf">
               <p class="text-black">View cv US</p>
             </v-btn>
           </footer>
