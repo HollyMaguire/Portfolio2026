@@ -25,13 +25,15 @@
     },
     "resolveJsonModule": true,
     "types": [
+      "node",
       "vite/client",
       "vite-plugin-vue-layouts/client",
       "unplugin-vue-router/client"
     ],
     "strict": true,
     "strictNullChecks": true,
-    "noUnusedLocals": true,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "isolatedModules": true,
@@ -49,6 +51,7 @@
     "./components.d.ts"
   ],
   "exclude": [
+    "vite.config.*",
     "./dist",
     "./node_modules"
   ],

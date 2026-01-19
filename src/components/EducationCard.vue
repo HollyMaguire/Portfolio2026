@@ -27,7 +27,6 @@
               v-for="(course, i) in value.courses"
               :key="i"
             >{{ course }}</div>
-            <div>{{ years }}</div>
           </footer>
         </div>
       </v-col>

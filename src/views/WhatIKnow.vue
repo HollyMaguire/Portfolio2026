@@ -126,7 +126,7 @@ const checkSkill = () => {
 
   let found = false
 
-  schema.skills.forEach((skill) => {
+  schema.skills.forEach((skill: { name: string; }) => {
     if (skill.name.toLowerCase().includes(search.value.toLowerCase())) {
       checkedSkills.value.add(skill.name)
       found = true

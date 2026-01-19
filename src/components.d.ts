@@ -28,7 +28,6 @@ declare module 'vue' {
     WhatICanDoForYou: typeof import('./views/WhatICanDoForYou.vue')['default']
     WhatIKnow: typeof import('./views/WhatIKnow.vue')['default']
     WhatIveDone: typeof import('./views/WhatIveDone.vue')['default']
-    WhatMyClientsSay: typeof import('./views/WhatMyClientsSay.vue')['default']
     WhereIveBeen: typeof import('./views/WhereIveBeen.vue')['default']
     WhoIAm: typeof import('./views/WhoIAm.vue')['default']
   }
