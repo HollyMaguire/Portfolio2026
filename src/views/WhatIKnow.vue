@@ -9,7 +9,7 @@
         </Heading>
 
         <v-col cols="auto">
-          <v-btn color="primary" href="/assets/CvUk.pdf" target="_blank">
+          <v-btn color="primary" href="/assets/CvUK.pdf" target="_blank">
             <p class="text-black">View cv UK</p>
           </v-btn>
 
