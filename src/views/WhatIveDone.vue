@@ -4,7 +4,7 @@
 
     <Heading>Other samples of my work</Heading>
     <p>
-      I have mainly worked on internal tools, but I do have a few public views of some of my work linked inside the bubbles.
+      I have mainly worked on internal tools, but I do have a few public views of some of my work linked inside the bubbles. This site was made with vue. 
     </p>
 
     <div ref="container" class="bubble-container">

@@ -41,7 +41,6 @@
           />
         </v-col>
 
-        <!-- Skills -->
         <v-col
           id="my-skills"
           cols="12"
@@ -56,7 +55,8 @@
             I have included an option to search for skills, that will put a check next to the skill for easy searching.
           </p>
 
-          <div class="skill-search">
+          <!-- SEARCH FORM -->
+          <form class="skill-search" @submit.prevent="checkSkill">
             <v-text-field
               v-model="search"
               label="Search skill"
@@ -65,21 +65,20 @@
               hide-details
               @focus="clearSearch"
             />
+
             <v-btn
               color="primary"
               class="ml-3"
-              @click="checkSkill"
+              type="submit"
             >
               Check skill
             </v-btn>
-          </div>
+          </form>
 
-          <!-- Not listed message -->
           <p v-if="notListed" class="not-listed">
             Not listed
           </p>
 
-          <!-- Skills Table -->
           <v-table class="skills-table">
             <tbody>
               <tr
@@ -126,7 +125,7 @@ const checkSkill = () => {
 
   let found = false
 
-  schema.skills.forEach((skill: { name: string; }) => {
+  schema.skills.forEach((skill: { name: string }) => {
     if (skill.name.toLowerCase().includes(search.value.toLowerCase())) {
       checkedSkills.value.add(skill.name)
       found = true
@@ -135,7 +134,6 @@ const checkSkill = () => {
 
   notListed.value = !found
 }
-
 
 const skillRows = computed(() => {
   const rows = []
@@ -147,18 +145,15 @@ const skillRows = computed(() => {
 </script>
 
 <style scoped>
-
 .skills-description {
   margin-bottom: 1.25rem;
 }
-
 
 .skill-search {
   display: flex;
   align-items: center;
   margin-bottom: 0.5rem;
 }
-
 
 .not-listed {
   color: #ff5252;
