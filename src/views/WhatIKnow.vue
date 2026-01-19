@@ -1,5 +1,3 @@
-import CVUK from @
-
 <template>
   <Section id="what-i-know">
     <Abstract2 />
