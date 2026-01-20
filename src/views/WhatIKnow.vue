@@ -9,14 +9,19 @@
         </Heading>
 
         <v-col cols="auto">
-          <v-btn color="primary" href="/assets/UkCv.docx" target="_blank">
-            <p class="text-black">Download cv (UK)
-            </p>
+          <v-btn color="primary"   
+            href="https://resumes-for-portfolio.s3.us-east-1.amazonaws.com/CvUK.pdf"
+            target="_blank"
+            rel="noopener">
+            <p class="text-black">View cv (UK)</p>
           </v-btn>
 
           <footer class="text-center mt-4">
-            <v-btn color="primary" href="../../public/assets/UsCv.docx" target="_blank">
-              <p class="text-black">Download cv (US)</p>
+            <v-btn color="primary"   
+            href="https://resumes-for-portfolio.s3.us-east-1.amazonaws.com/CvUS.pdf"
+            target="_blank"
+            rel="noopener">
+              <p class="text-black">View cv (US)</p>
             </v-btn>
           </footer>
         </v-col>
@@ -109,6 +114,7 @@
 <script setup lang="ts">
 import { ref, computed } from 'vue'
 import { useAppStore } from '@/stores/app'
+
 
 const { schema } = useAppStore()
 
