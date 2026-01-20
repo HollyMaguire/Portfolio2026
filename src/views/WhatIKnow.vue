@@ -9,13 +9,14 @@
         </Heading>
 
         <v-col cols="auto">
-          <v-btn color="primary" href="/assets/CvUK.pdf" target="_blank">
-            <p class="text-black">View cv UK</p>
+          <v-btn color="primary" href="/assets/UkCv.docx" target="_blank">
+            <p class="text-black">Download cv (UK)
+            </p>
           </v-btn>
 
           <footer class="text-center mt-4">
-            <v-btn color="primary" href="/assets/CvUS.pdf" target="_blank">
-              <p class="text-black">View cv US</p>
+            <v-btn color="primary" href="../../public/assets/UsCv.docx" target="_blank">
+              <p class="text-black">Download cv (US)</p>
             </v-btn>
           </footer>
         </v-col>
