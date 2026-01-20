@@ -14,7 +14,7 @@
           md="7"
         >
           <Text class="mb-0">
-            <p>I am a Software Engineer with full-stack skills, who specilizes in front-end engineering/development.
+            <p>I am a Software Engineer with full-stack skills, who specializes in front-end engineering/development.
  I enjoy making
     responsive, accessible UI and have professional experience with: React, Angular,
     Vue, JavaScript, TypeScript, Elm, HTML5, CSS/SCSS, along with UI/UX design collaboration and
