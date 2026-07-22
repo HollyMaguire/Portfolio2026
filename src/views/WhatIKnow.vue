@@ -10,19 +10,18 @@
 
         <v-col cols="auto">
           <v-btn color="primary"   
-            href="https://resumes-for-portfolio.s3.us-east-1.amazonaws.com/CvUK.pdf"
-            target="_blank"
-            rel="noopener">
-            <p class="text-black">View cv (UK)</p>
-          </v-btn>
-
-          <footer class="text-center mt-4">
-            <v-btn color="primary"   
             href="https://resumes-for-portfolio.s3.us-east-1.amazonaws.com/CvUS.pdf"
             target="_blank"
             rel="noopener">
               <p class="text-black">View cv (US)</p>
             </v-btn>
+          <footer class="text-center mt-4">
+            <v-btn color="primary"   
+            href="https://resumes-for-portfolio.s3.us-east-1.amazonaws.com/CvUK.pdf"
+            target="_blank"
+            rel="noopener">
+            <p class="text-black">View cv (UK)</p>
+          </v-btn>
           </footer>
         </v-col>
       </v-row>

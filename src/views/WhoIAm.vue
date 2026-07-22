@@ -50,7 +50,7 @@
             >
               <div
                 class="mb-3"
-              >Hollygracemaguire@gmail.com</div>
+              >Holllismaguire@gmail.com</div>
               <div
                 class="mb-3"
               >{{ schema.basics.phone }}</div>

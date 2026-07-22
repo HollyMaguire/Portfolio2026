@@ -41,7 +41,8 @@ const bubbles = ref([
   { text: "FedMall", link: "https://www.fedmall.mil/index.html" },
   { text: "Short Term Energy Outlook", link: "https://www.eia.gov/outlooks/steo/" },
   { text: "Open Data", link: "https://www.eia.gov/opendata/" },
-  { text: "CatHerder", link: "https://catherder.onrender.com/"}
+  { text: "CatHerder", link: "https://catherder.onrender.com/"},
+  { text: "CarmonaLabs", link: "https://www.carmonalabs.com/"}
 ]);
 
 let containerWidth = 0;
