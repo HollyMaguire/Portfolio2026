@@ -28,6 +28,12 @@
   },
   "work": [
     {
+      "company": "CarmonaLabs",
+      "position": "Senior Frontend Software Engineer",
+      "startDate": "2025",
+      "summary": "Architect and lead frontend solutions across diverse client contracts using React, Vue, and Angular based on specific project goals.   Build and maintain Claude-driven agentic workflows and integrate custom LLM API features into client applications. Build backend APIs and services in Ruby, Go, PHP, and Python to support full stack application features.  Audit, debug, and refactor AI-generated codebases to enforce production grade quality, type safety, and maintainability."
+    },
+    {
       "company": "Triumph Financial",
       "position": "Senior Software Engineer",
       "startDate": "2025",
